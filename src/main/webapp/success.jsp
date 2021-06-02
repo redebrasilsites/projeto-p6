@@ -1,0 +1,1 @@
+<jsp:forward page="admin/success.jsp"></jsp:forward>

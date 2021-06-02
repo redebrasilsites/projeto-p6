@@ -1,0 +1,1 @@
+<jsp:forward page="admin/error.jsp"></jsp:forward>
